@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emzarts/mood-tracker/static/css/main.2cce8147.chunk.css",
+    "main.js": "/emzarts/mood-tracker/static/js/main.daee1fbc.chunk.js",
+    "main.js.map": "/emzarts/mood-tracker/static/js/main.daee1fbc.chunk.js.map",
+    "runtime~main.js": "/emzarts/mood-tracker/static/js/runtime~main.cbee675a.js",
+    "runtime~main.js.map": "/emzarts/mood-tracker/static/js/runtime~main.cbee675a.js.map",
+    "static/js/2.7366d528.chunk.js": "/emzarts/mood-tracker/static/js/2.7366d528.chunk.js",
+    "static/js/2.7366d528.chunk.js.map": "/emzarts/mood-tracker/static/js/2.7366d528.chunk.js.map",
+    "index.html": "/emzarts/mood-tracker/index.html",
+    "precache-manifest.908271a7b5c6dcc188973528be35db2c.js": "/emzarts/mood-tracker/precache-manifest.908271a7b5c6dcc188973528be35db2c.js",
+    "service-worker.js": "/emzarts/mood-tracker/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/emzarts/mood-tracker/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/emzarts/mood-tracker/static/media/logo.5d5d9eef.svg"
+  }
+}
