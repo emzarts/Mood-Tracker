@@ -1,0 +1,17 @@
+https://www.trustedtarot.com/cards/ 
+
+
+List of all tarot cards with the expandable images 
+Single tarot card 
+Tarot card spread 
+
+later
+----- 
+tarot card of the day
+- how do we remember the card someone drew 
+
+
+resources 
+-----
+https://facebook.github.io/react-native/ 
+https://code.visualstudio.com/docs?start=true
